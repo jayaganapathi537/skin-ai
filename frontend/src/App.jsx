@@ -13,7 +13,7 @@ import Share from './pages/Share'
 export default function App() {
   return (
     <AppProvider>
-      <div className="min-h-screen bg-canvas">
+      <div className="min-h-screen bg-canvas pb-20 md:pb-0">
         <Navigation />
         <Routes>
           <Route path="/" element={<Landing />} />

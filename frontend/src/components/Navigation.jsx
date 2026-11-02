@@ -13,6 +13,14 @@ const navItems = [
   { path: '/share', icon: Share2, label: 'Share', requiresProfile: true },
 ]
 
+const mobileNavItems = [
+  { path: '/', icon: Home, label: 'Home' },
+  { path: '/capture', icon: Camera, label: 'Scan', requiresProfile: false },
+  { path: '/profile', icon: User, label: 'Profile', requiresProfile: true },
+  { path: '/palette', icon: Palette, label: 'Palette', requiresProfile: true },
+  { path: '/shop', icon: ShoppingBag, label: 'Shop', requiresProfile: true },
+]
+
 export default function Navigation() {
   const location = useLocation()
   const navigate = useNavigate()
@@ -106,9 +114,9 @@ export default function Navigation() {
       </nav>
 
       {/* Mobile Bottom Tab Bar */}
-      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-surface/95 backdrop-blur-lg border-t border-border">
-        <div className="flex items-center justify-around px-2 py-2 safe-area-inset-bottom">
-          {navItems.map((item) => {
+      <nav className="md:hidden fixed bottom-0 left-0 right-0 z-50 bg-surface/95 backdrop-blur-lg border-t border-border" style={{ paddingBottom: 'env(safe-area-inset-bottom, 0px)' }}>
+        <div className="flex items-center justify-around px-1 py-1.5">
+          {mobileNavItems.map((item) => {
             const isActive = location.pathname === item.path
             const disabled = isDisabled(item)
             const Icon = item.icon
@@ -121,7 +129,7 @@ export default function Navigation() {
                 disabled={disabled}
                 aria-disabled={disabled}
                 aria-label={disabled ? `${item.label} - Complete the analysis first` : item.label}
-                className={`flex flex-col items-center gap-1 px-3 py-2 rounded-lg transition-colors min-w-[60px] ${
+                className={`flex flex-col items-center gap-0.5 px-2 py-1.5 rounded-lg transition-colors min-w-0 flex-1 ${
                   isActive
                     ? 'text-accent'
                     : disabled
@@ -129,8 +137,8 @@ export default function Navigation() {
                       : 'text-ink-light'
                 }`}
               >
-                <Icon size={20} strokeWidth={2} />
-                <span className="text-[10px] font-medium">{item.label}</span>
+                <Icon size={18} strokeWidth={2} />
+                <span className="text-[9px] font-medium leading-tight">{item.label}</span>
               </motion.button>
             )
           })}
@@ -138,7 +146,7 @@ export default function Navigation() {
       </nav>
 
       {/* Spacer for mobile bottom nav */}
-      <div className="md:hidden h-20" />
+      <div className="md:hidden h-16" />
     </>
   )
 }
