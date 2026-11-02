@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.12
+httpx==0.27.2
+Pillow==10.4.0
+colorspacious==1.1.2
+python-dotenv==1.0.1
+aiofiles==24.1.0
+upstash-redis>=1.0.0

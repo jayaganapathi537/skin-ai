@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Coral Top",
+    "category": "Tops",
+    "dominant_hex": "#FD8C77",
+    "image": "/images/garments/thumbs/top-coral-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-coral-01.jpg",
+    "price": "$49",
+    "tags": [
+      "a"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Terracotta Dress",
+    "category": "Dresses",
+    "dominant_hex": "#963720",
+    "image": "/images/garments/thumbs/dress-terracotta-01.jpg",
+    "tryon_image": "/images/garments/tryon/dress-terracotta-01.jpg",
+    "price": "$89",
+    "tags": [
+      "a"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Cinnamon Jacket",
+    "category": "Jackets",
+    "dominant_hex": "#532E19",
+    "image": "/images/garments/thumbs/jacket-cinnamon-01.jpg",
+    "tryon_image": "/images/garments/tryon/jacket-cinnamon-01.jpg",
+    "price": "$129",
+    "tags": [
+      "a"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Blush Top",
+    "category": "Tops",
+    "dominant_hex": "#F2DBCE",
+    "image": "/images/garments/thumbs/top-blush-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-blush-01.jpg",
+    "price": "$45",
+    "tags": [
+      "a"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Bright Cyan Top",
+    "category": "Tops",
+    "dominant_hex": "#0BB3C0",
+    "image": "/images/garments/thumbs/top-bright-cyan-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-bright-cyan-01.jpg",
+    "price": "$39",
+    "tags": [
+      "a"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Honey Top",
+    "category": "Tops",
+    "dominant_hex": "#CD8639",
+    "image": "/images/garments/thumbs/top-honey-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-honey-01.jpg",
+    "price": "$49",
+    "tags": [
+      "b"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Tan Trousers",
+    "category": "Bottoms",
+    "dominant_hex": "#95673A",
+    "image": "/images/garments/thumbs/bottoms-tan-01.jpg",
+    "tryon_image": "/images/garments/tryon/bottoms-tan-01.jpg",
+    "price": "$69",
+    "tags": [
+      "b"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Olive Top",
+    "category": "Tops",
+    "dominant_hex": "#634C1B",
+    "image": "/images/garments/thumbs/top-olive-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-olive-01.jpg",
+    "price": "$55",
+    "tags": [
+      "b"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Salmon Top",
+    "category": "Tops",
+    "dominant_hex": "#D29989",
+    "image": "/images/garments/thumbs/top-salmon-01.jpg",
+    "tryon_image": "/images/garments/tryon/top-salmon-01.jpg",
+    "price": "$49",
+    "tags": [
+      "b"
+    ]
+  }
+]

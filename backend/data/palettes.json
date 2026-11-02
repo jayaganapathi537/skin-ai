@@ -1,0 +1,158 @@
+{
+  "warm-light": {
+    "heroes": [
+      {"hex": "#FFCBA4", "name": "Peach", "reason_template": "Peach {undertone_phrase} and brightens your complexion."},
+      {"hex": "#FF7F50", "name": "Coral", "reason_template": "Coral {undertone_phrase} with a lively, flattering warmth."},
+      {"hex": "#CFB53B", "name": "Warm Gold", "reason_template": "Warm gold {undertone_phrase} and catches light beautifully near your {eye_color} eyes."},
+      {"hex": "#808000", "name": "Olive", "reason_template": "Olive {undertone_phrase} and adds earthy depth."},
+      {"hex": "#E2725B", "name": "Terracotta", "reason_template": "Terracotta {undertone_phrase} with an earthy richness."},
+      {"hex": "#FA8072", "name": "Salmon", "reason_template": "Salmon {undertone_phrase}, sitting between pink and orange for a soft glow."},
+      {"hex": "#FFBF00", "name": "Amber", "reason_template": "Amber {undertone_phrase} and brings out the warmth in your {eye_color} eyes."},
+      {"hex": "#C08081", "name": "Warm Rose", "reason_template": "Warm rose {undertone_phrase} with a gentle, rosy lift."},
+      {"hex": "#EB9605", "name": "Honey", "reason_template": "Honey {undertone_phrase} with a rich, sun-kissed quality."},
+      {"hex": "#D2691E", "name": "Cinnamon", "reason_template": "Cinnamon {undertone_phrase} and adds a spiced warmth near the face."}
+    ],
+    "neutrals": [
+      {"hex": "#F5F0E1", "name": "Cream"},
+      {"hex": "#C2B280", "name": "Sand"},
+      {"hex": "#D2B48C", "name": "Tan"},
+      {"hex": "#FFFDD0", "name": "Ivory"}
+    ],
+    "care_colors": [
+      {"hex": "#D050D0", "name": "Hot Magenta", "reason_template": "May clash with warm undertones and overwhelm lighter complexions."},
+      {"hex": "#00FFFF", "name": "Bright Cyan", "reason_template": "Can wash out warm-toned lighter skin."},
+      {"hex": "#C0C0C0", "name": "Cool Silver", "reason_template": "Silver can appear stark against warm, lighter skin."},
+      {"hex": "#FF69B4", "name": "Bubblegum Pink", "reason_template": "Cool-based pinks may compete with your natural warmth."}
+    ]
+  },
+  "warm-deep": {
+    "heroes": [
+      {"hex": "#CC5500", "name": "Burnt Orange", "reason_template": "Burnt orange {undertone_phrase} and pairs beautifully with deep skin."},
+      {"hex": "#D4A017", "name": "Rich Gold", "reason_template": "Rich gold {undertone_phrase} and creates a luminous effect."},
+      {"hex": "#3C1414", "name": "Chocolate", "reason_template": "Chocolate {undertone_phrase} with a tonal richness that flatters."},
+      {"hex": "#800020", "name": "Burgundy", "reason_template": "Burgundy {undertone_phrase} and adds regal depth."},
+      {"hex": "#008080", "name": "Deep Teal", "reason_template": "Deep teal {undertone_phrase} and makes {eye_color} eyes stand out."},
+      {"hex": "#E1AD01", "name": "Mustard", "reason_template": "Mustard {undertone_phrase} with a grounded, earthy warmth."},
+      {"hex": "#673147", "name": "Warm Plum", "reason_template": "Warm plum {undertone_phrase} with a luxurious berry tone."},
+      {"hex": "#B7410E", "name": "Rust", "reason_template": "Rust {undertone_phrase} and echoes the earthy warmth in your skin."},
+      {"hex": "#8D0226", "name": "Cayenne", "reason_template": "Cayenne {undertone_phrase} with a bold, spiced richness."},
+      {"hex": "#F4C430", "name": "Saffron", "reason_template": "Saffron {undertone_phrase} and illuminates deeper complexions."}
+    ],
+    "neutrals": [
+      {"hex": "#3B2F2F", "name": "Dark Brown"},
+      {"hex": "#483C32", "name": "Taupe"},
+      {"hex": "#36454F", "name": "Charcoal"},
+      {"hex": "#F5F5DC", "name": "Warm Beige"}
+    ],
+    "care_colors": [
+      {"hex": "#AFEEEE", "name": "Pale Turquoise", "reason_template": "Pale cool tones may look washed out against deep warm skin."},
+      {"hex": "#FFB6C1", "name": "Light Pink", "reason_template": "Can appear faded and lack contrast with deeper warm complexions."},
+      {"hex": "#E6E6FA", "name": "Lavender", "reason_template": "Cool pastels can drain warmth from deep skin tones."},
+      {"hex": "#D3D3D3", "name": "Light Grey", "reason_template": "May appear ashy next to warm, deep skin."}
+    ]
+  },
+  "cool-light": {
+    "heroes": [
+      {"hex": "#B57EDC", "name": "Lavender", "reason_template": "Lavender {undertone_phrase} and flatters your rosy complexion."},
+      {"hex": "#B0D4F1", "name": "Powder Blue", "reason_template": "Powder blue {undertone_phrase} and brightens your {eye_color} eyes."},
+      {"hex": "#FFB7C5", "name": "Soft Pink", "reason_template": "Soft pink {undertone_phrase} with a gentle, flattering blush."},
+      {"hex": "#98FB98", "name": "Mint", "reason_template": "Mint {undertone_phrase} and adds a crisp, fresh quality."},
+      {"hex": "#CCCCFF", "name": "Periwinkle", "reason_template": "Periwinkle {undertone_phrase} and enhances your {eye_color} eyes."},
+      {"hex": "#C9A9A6", "name": "Dusty Rose", "reason_template": "Dusty rose {undertone_phrase} with a muted, elegant warmth."},
+      {"hex": "#D6ECEF", "name": "Ice Blue", "reason_template": "Ice blue {undertone_phrase} and creates a luminous coolness."},
+      {"hex": "#E0B0FF", "name": "Mauve", "reason_template": "Mauve {undertone_phrase} with a purple-pink softness."},
+      {"hex": "#9FA9B0", "name": "Cool Grey", "reason_template": "Cool grey {undertone_phrase} and provides a sleek neutral base."},
+      {"hex": "#C8A2C8", "name": "Soft Lilac", "reason_template": "Soft lilac {undertone_phrase} with a gentle, cool-toned femininity."}
+    ],
+    "neutrals": [
+      {"hex": "#FFFFFF", "name": "Pure White"},
+      {"hex": "#C0C0C0", "name": "Silver"},
+      {"hex": "#778899", "name": "Slate Blue"},
+      {"hex": "#F0F0F0", "name": "Snow"}
+    ],
+    "care_colors": [
+      {"hex": "#FF8C00", "name": "Dark Orange", "reason_template": "Strong warm oranges can clash with cool, lighter skin tones."},
+      {"hex": "#FFD700", "name": "Bright Gold", "reason_template": "Intense gold may overpower your cool undertone."},
+      {"hex": "#8B4513", "name": "Saddle Brown", "reason_template": "Heavy earth tones can drain colour from cool-toned faces."},
+      {"hex": "#FF6347", "name": "Tomato Red", "reason_template": "Warm-based reds can compete with your natural rosy tones."}
+    ]
+  },
+  "cool-deep": {
+    "heroes": [
+      {"hex": "#000080", "name": "Navy", "reason_template": "Navy {undertone_phrase} and provides strong, elegant contrast."},
+      {"hex": "#50C878", "name": "Emerald", "reason_template": "Emerald {undertone_phrase} and makes {eye_color} eyes pop."},
+      {"hex": "#E0115F", "name": "Ruby", "reason_template": "Ruby {undertone_phrase} with a jewel-toned brilliance."},
+      {"hex": "#7851A9", "name": "Royal Purple", "reason_template": "Royal purple {undertone_phrase} and adds regal richness."},
+      {"hex": "#0047AB", "name": "Cobalt", "reason_template": "Cobalt {undertone_phrase} with a bold, saturated depth."},
+      {"hex": "#8E4585", "name": "Deep Berry", "reason_template": "Deep berry {undertone_phrase} and creates a luxurious contrast."},
+      {"hex": "#01796F", "name": "Pine", "reason_template": "Pine {undertone_phrase} with a deep, forest richness."},
+      {"hex": "#6C3461", "name": "Cool Burgundy", "reason_template": "Cool burgundy {undertone_phrase} with a blue-based depth."},
+      {"hex": "#0F52BA", "name": "Sapphire", "reason_template": "Sapphire {undertone_phrase} and echoes the depth of your complexion."},
+      {"hex": "#5C2D5A", "name": "Deep Plum", "reason_template": "Deep plum {undertone_phrase} with a rich, saturated elegance."}
+    ],
+    "neutrals": [
+      {"hex": "#2F4F4F", "name": "Dark Slate"},
+      {"hex": "#36454F", "name": "Charcoal"},
+      {"hex": "#FFFFF0", "name": "Cool Ivory"},
+      {"hex": "#708090", "name": "Slate Grey"}
+    ],
+    "care_colors": [
+      {"hex": "#FFD700", "name": "Bright Yellow", "reason_template": "Bright warm yellows can clash with cool, deep skin."},
+      {"hex": "#FFA500", "name": "Orange", "reason_template": "Warm oranges may compete with your cool undertone."},
+      {"hex": "#F0E68C", "name": "Khaki", "reason_template": "Warm khaki can wash out cool-toned deep skin."},
+      {"hex": "#DEB887", "name": "Burlywood", "reason_template": "Warm, muted tans can appear dull against deep cool skin."}
+    ]
+  },
+  "neutral-soft": {
+    "heroes": [
+      {"hex": "#B8A99A", "name": "Soft Taupe", "reason_template": "Soft taupe {undertone_phrase} with an effortless, muted elegance."},
+      {"hex": "#7B9EB0", "name": "Dusty Blue", "reason_template": "Dusty blue {undertone_phrase} and brings softness to your {eye_color} eyes."},
+      {"hex": "#A8A39D", "name": "Warm Grey", "reason_template": "Warm grey {undertone_phrase} with a balanced, modern neutrality."},
+      {"hex": "#DE98AB", "name": "Blush", "reason_template": "Blush {undertone_phrase} with a gentle, flattering pink."},
+      {"hex": "#9CAF88", "name": "Sage Green", "reason_template": "Sage green {undertone_phrase} and adds a calm, natural freshness."},
+      {"hex": "#C4A0B0", "name": "Soft Mauve", "reason_template": "Soft mauve {undertone_phrase} with a muted purple-pink softness."},
+      {"hex": "#928E85", "name": "Stone", "reason_template": "Stone {undertone_phrase} with a grounded, earthy quality."},
+      {"hex": "#E4D5B7", "name": "Oat", "reason_template": "Oat {undertone_phrase} and creates a warm, light neutral."},
+      {"hex": "#A0D6B4", "name": "Pale Jade", "reason_template": "Pale jade {undertone_phrase} with a delicate green freshness."},
+      {"hex": "#8B7D6B", "name": "Mushroom", "reason_template": "Mushroom {undertone_phrase} and adds a warm, understated depth."}
+    ],
+    "neutrals": [
+      {"hex": "#FFFDD0", "name": "Cream"},
+      {"hex": "#D3D3D3", "name": "Soft Grey"},
+      {"hex": "#F5F5DC", "name": "Beige"},
+      {"hex": "#FAF0E6", "name": "Linen"}
+    ],
+    "care_colors": [
+      {"hex": "#FF0000", "name": "Bright Red", "reason_template": "Saturated brights can overwhelm a soft, neutral palette."},
+      {"hex": "#50D050", "name": "Neon Green", "reason_template": "Neon shades clash with the muted quality of neutral-soft skin."},
+      {"hex": "#D050D0", "name": "Fuchsia", "reason_template": "Very vivid pinks may feel jarring against soft neutral tones."},
+      {"hex": "#5050D0", "name": "Electric Blue", "reason_template": "Highly saturated blues can overpower softer complexions."}
+    ]
+  },
+  "neutral-rich": {
+    "heroes": [
+      {"hex": "#36454F", "name": "Charcoal", "reason_template": "Charcoal {undertone_phrase} with a sophisticated, deep neutrality."},
+      {"hex": "#556B2F", "name": "Deep Olive", "reason_template": "Deep olive {undertone_phrase} and adds earthy richness."},
+      {"hex": "#722F37", "name": "Wine", "reason_template": "Wine {undertone_phrase} with a deep, luxurious warmth."},
+      {"hex": "#005F5F", "name": "Dark Teal", "reason_template": "Dark teal {undertone_phrase} and makes {eye_color} eyes stand out."},
+      {"hex": "#382419", "name": "Espresso", "reason_template": "Espresso {undertone_phrase} with a rich, grounded depth."},
+      {"hex": "#191970", "name": "Midnight Blue", "reason_template": "Midnight blue {undertone_phrase} and provides elegant contrast."},
+      {"hex": "#3B0837", "name": "Deep Aubergine", "reason_template": "Deep aubergine {undertone_phrase} with a dramatic purple depth."},
+      {"hex": "#228B22", "name": "Forest", "reason_template": "Forest green {undertone_phrase} and adds vibrant yet grounded colour."},
+      {"hex": "#708090", "name": "Slate", "reason_template": "Slate {undertone_phrase} with a cool-leaning, balanced neutrality."},
+      {"hex": "#4E0000", "name": "Mahogany", "reason_template": "Mahogany {undertone_phrase} with a warm, deep reddish-brown richness."}
+    ],
+    "neutrals": [
+      {"hex": "#2F2F2F", "name": "Near Black"},
+      {"hex": "#696969", "name": "Dim Grey"},
+      {"hex": "#F5F0E1", "name": "Off-White"},
+      {"hex": "#4A4A4A", "name": "Dark Grey"}
+    ],
+    "care_colors": [
+      {"hex": "#FFFF00", "name": "Bright Yellow", "reason_template": "Very bright yellows can appear jarring against rich neutral skin."},
+      {"hex": "#FFC0CB", "name": "Baby Pink", "reason_template": "Pale pinks may lack enough contrast with rich neutral complexions."},
+      {"hex": "#ADD8E6", "name": "Light Blue", "reason_template": "Pale blues can appear washed out against deeper neutral tones."},
+      {"hex": "#FFDAB9", "name": "Peach Puff", "reason_template": "Light peach can look faded against rich, deeper skin tones."}
+    ]
+  }
+}

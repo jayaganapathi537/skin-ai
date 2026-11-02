@@ -1,0 +1,20 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+venv/
+backend/venv/
+backend/*.db
+backend/.pytest_cache/
+.DS_Store
+*.log
+.claude/
+
+# Local test files
+body.jpg
+garment.png
+tryon_test.py
+/fixtures/
+frontend/src/assets/hero-face.png
+frontend/src/assets/hero.png

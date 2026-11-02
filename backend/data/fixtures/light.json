@@ -1,0 +1,125 @@
+{
+  "persona": "Sophia",
+  "profile": {
+    "skin_color": "#F0C8A8",
+    "eye_color": "#6B8E6B",
+    "eye_color_name": "Green",
+    "lip_color": "#C97878",
+    "eyebrow_color": "#8B7355",
+    "hair_color": "#C8A070",
+    "hair_color_name": "Blonde",
+    "depth": "Light",
+    "undertone": "Warm",
+    "undertone_raw": "warm",
+    "lean": null,
+    "spectrum_position": 0.735,
+    "raw_hue": 65.7,
+    "contrast": "Medium",
+    "contrast_diff": 25.2,
+    "hair_included_in_contrast": true,
+    "photo_quality": {
+      "score": 1.0,
+      "label": "Good",
+      "reasons": [],
+      "suggest_retake": false
+    },
+    "palette_family": "warm-light",
+    "summary": "You have a light complexion with warm, golden undertones, green eyes and blonde hair. Your moderate contrast gives you flexibility with both tonal and contrasting outfits."
+  },
+  "palette": {
+    "family": "warm-light",
+    "hero_colors": [
+      {
+        "hex": "#FFCBA4",
+        "name": "Peach",
+        "reason": "Peach appears to complement your warm undertone and brightens your complexion."
+      },
+      {
+        "hex": "#FF7F50",
+        "name": "Coral",
+        "reason": "Coral appears to complement your warm undertone with a lively, flattering warmth."
+      },
+      {
+        "hex": "#CFB53B",
+        "name": "Warm Gold",
+        "reason": "Warm gold appears to complement your warm undertone and catches light beautifully near your green eyes."
+      },
+      {
+        "hex": "#808000",
+        "name": "Olive",
+        "reason": "Olive appears to complement your warm undertone and adds earthy depth."
+      },
+      {
+        "hex": "#E2725B",
+        "name": "Terracotta",
+        "reason": "Terracotta appears to complement your warm undertone with an earthy richness."
+      },
+      {
+        "hex": "#FA8072",
+        "name": "Salmon",
+        "reason": "Salmon appears to complement your warm undertone, sitting between pink and orange for a soft glow."
+      },
+      {
+        "hex": "#FFBF00",
+        "name": "Amber",
+        "reason": "Amber appears to complement your warm undertone and brings out the warmth in your green eyes."
+      },
+      {
+        "hex": "#C08081",
+        "name": "Warm Rose",
+        "reason": "Warm rose appears to complement your warm undertone with a gentle, rosy lift."
+      },
+      {
+        "hex": "#EB9605",
+        "name": "Honey",
+        "reason": "Honey appears to complement your warm undertone with a rich, sun-kissed quality."
+      },
+      {
+        "hex": "#D2691E",
+        "name": "Cinnamon",
+        "reason": "Cinnamon appears to complement your warm undertone and adds a spiced warmth near the face."
+      }
+    ],
+    "neutral_colors": [
+      {
+        "hex": "#F5F0E1",
+        "name": "Cream"
+      },
+      {
+        "hex": "#C2B280",
+        "name": "Sand"
+      },
+      {
+        "hex": "#D2B48C",
+        "name": "Tan"
+      },
+      {
+        "hex": "#FFFDD0",
+        "name": "Ivory"
+      }
+    ],
+    "care_colors": [
+      {
+        "hex": "#D050D0",
+        "name": "Hot Magenta",
+        "reason": "May clash with warm undertones and overwhelm lighter complexions."
+      },
+      {
+        "hex": "#00FFFF",
+        "name": "Bright Cyan",
+        "reason": "Can wash out warm-toned lighter skin."
+      },
+      {
+        "hex": "#C0C0C0",
+        "name": "Cool Silver",
+        "reason": "Silver can appear stark against warm, lighter skin."
+      },
+      {
+        "hex": "#FF69B4",
+        "name": "Bubblegum Pink",
+        "reason": "Cool-based pinks may compete with your natural warmth."
+      }
+    ]
+  },
+  "tryon_result_url": null
+}

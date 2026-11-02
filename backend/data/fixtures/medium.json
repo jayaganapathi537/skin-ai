@@ -1,0 +1,125 @@
+{
+  "persona": "Priya",
+  "profile": {
+    "skin_color": "#AC8A77",
+    "eye_color": "#6B4226",
+    "eye_color_name": "Brown",
+    "lip_color": "#B5656B",
+    "eyebrow_color": "#3B2F2F",
+    "hair_color": "#2C1B0E",
+    "hair_color_name": "Black",
+    "depth": "Medium",
+    "undertone": "Neutral, balanced",
+    "undertone_raw": "neutral",
+    "lean": "balanced",
+    "spectrum_position": 0.463,
+    "raw_hue": 56.2,
+    "contrast": "Medium",
+    "contrast_diff": 38.6,
+    "hair_included_in_contrast": true,
+    "photo_quality": {
+      "score": 1.0,
+      "label": "Good",
+      "reasons": [],
+      "suggest_retake": false
+    },
+    "palette_family": "neutral-soft",
+    "summary": "You appears to have a medium complexion with balanced undertones, brown eyes and black hair. Your moderate contrast gives you flexibility with both tonal and contrasting outfits."
+  },
+  "palette": {
+    "family": "neutral-soft",
+    "hero_colors": [
+      {
+        "hex": "#B8A99A",
+        "name": "Soft Taupe",
+        "reason": "Soft taupe works well with your balanced undertone with an effortless, muted elegance."
+      },
+      {
+        "hex": "#7B9EB0",
+        "name": "Dusty Blue",
+        "reason": "Dusty blue works well with your balanced undertone and brings softness to your brown eyes."
+      },
+      {
+        "hex": "#A8A39D",
+        "name": "Warm Grey",
+        "reason": "Warm grey works well with your balanced undertone with a balanced, modern neutrality."
+      },
+      {
+        "hex": "#DE98AB",
+        "name": "Blush",
+        "reason": "Blush works well with your balanced undertone with a gentle, flattering pink."
+      },
+      {
+        "hex": "#9CAF88",
+        "name": "Sage Green",
+        "reason": "Sage green works well with your balanced undertone and adds a calm, natural freshness."
+      },
+      {
+        "hex": "#C4A0B0",
+        "name": "Soft Mauve",
+        "reason": "Soft mauve works well with your balanced undertone with a muted purple-pink softness."
+      },
+      {
+        "hex": "#928E85",
+        "name": "Stone",
+        "reason": "Stone works well with your balanced undertone with a grounded, earthy quality."
+      },
+      {
+        "hex": "#E4D5B7",
+        "name": "Oat",
+        "reason": "Oat works well with your balanced undertone and creates a warm, light neutral."
+      },
+      {
+        "hex": "#A0D6B4",
+        "name": "Pale Jade",
+        "reason": "Pale jade works well with your balanced undertone with a delicate green freshness."
+      },
+      {
+        "hex": "#8B7D6B",
+        "name": "Mushroom",
+        "reason": "Mushroom works well with your balanced undertone and adds a warm, understated depth."
+      }
+    ],
+    "neutral_colors": [
+      {
+        "hex": "#FFFDD0",
+        "name": "Cream"
+      },
+      {
+        "hex": "#D3D3D3",
+        "name": "Soft Grey"
+      },
+      {
+        "hex": "#F5F5DC",
+        "name": "Beige"
+      },
+      {
+        "hex": "#FAF0E6",
+        "name": "Linen"
+      }
+    ],
+    "care_colors": [
+      {
+        "hex": "#FF0000",
+        "name": "Bright Red",
+        "reason": "Saturated brights can overwhelm a soft, neutral palette."
+      },
+      {
+        "hex": "#50D050",
+        "name": "Neon Green",
+        "reason": "Neon shades clash with the muted quality of neutral-soft skin."
+      },
+      {
+        "hex": "#D050D0",
+        "name": "Fuchsia",
+        "reason": "Very vivid pinks may feel jarring against soft neutral tones."
+      },
+      {
+        "hex": "#5050D0",
+        "name": "Electric Blue",
+        "reason": "Highly saturated blues can overpower softer complexions."
+      }
+    ]
+  },
+  "tryon_result_url": "/api/results/tryon_live_test.jpg"
+}

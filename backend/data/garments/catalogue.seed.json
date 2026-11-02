@@ -1,0 +1,146 @@
+[
+  {
+    "file": "top-coral-01",
+    "category": "tops",
+    "name": "Coral Top",
+    "target_hex": "#FF7F50",
+    "group": "A",
+    "price": "$49"
+  },
+  {
+    "file": "dress-terracotta-01",
+    "category": "dresses",
+    "name": "Terracotta Dress",
+    "target_hex": "#E2725B",
+    "group": "A",
+    "price": "$89"
+  },
+  {
+    "file": "jacket-cinnamon-01",
+    "category": "jackets",
+    "name": "Cinnamon Jacket",
+    "target_hex": "#D2691E",
+    "group": "A",
+    "price": "$129"
+  },
+  {
+    "file": "top-dusty-blue-01",
+    "category": "tops",
+    "name": "Dusty Blue Top",
+    "target_hex": "#7B9EB0",
+    "group": "A",
+    "price": "$55"
+  },
+  {
+    "file": "top-blush-01",
+    "category": "tops",
+    "name": "Blush Top",
+    "target_hex": "#DE98AB",
+    "group": "A",
+    "price": "$45"
+  },
+  {
+    "file": "dress-sage-01",
+    "category": "dresses",
+    "name": "Sage Dress",
+    "target_hex": "#9CAF88",
+    "group": "A",
+    "price": "$79"
+  },
+  {
+    "file": "top-wine-01",
+    "category": "tops",
+    "name": "Wine Top",
+    "target_hex": "#722F37",
+    "group": "A",
+    "price": "$59"
+  },
+  {
+    "file": "top-dark-teal-01",
+    "category": "tops",
+    "name": "Dark Teal Top",
+    "target_hex": "#005F5F",
+    "group": "A",
+    "price": "$55"
+  },
+  {
+    "file": "jacket-deep-olive-01",
+    "category": "jackets",
+    "name": "Deep Olive Jacket",
+    "target_hex": "#556B2F",
+    "group": "A",
+    "price": "$119"
+  },
+  {
+    "file": "top-bright-cyan-01",
+    "category": "tops",
+    "name": "Bright Cyan Top",
+    "target_hex": "#00FFFF",
+    "group": "A",
+    "price": "$39"
+  },
+  {
+    "file": "top-honey-01",
+    "category": "tops",
+    "name": "Honey Top",
+    "target_hex": "#EB9605",
+    "group": "B",
+    "price": "$49"
+  },
+  {
+    "file": "bottoms-tan-01",
+    "category": "bottoms",
+    "name": "Tan Trousers",
+    "target_hex": "#D2B48C",
+    "group": "B",
+    "price": "$69"
+  },
+  {
+    "file": "top-oat-01",
+    "category": "tops",
+    "name": "Oat Top",
+    "target_hex": "#E4D5B7",
+    "group": "B",
+    "price": "$45"
+  },
+  {
+    "file": "bottoms-stone-01",
+    "category": "bottoms",
+    "name": "Stone Trousers",
+    "target_hex": "#928E85",
+    "group": "B",
+    "price": "$69"
+  },
+  {
+    "file": "bottoms-charcoal-01",
+    "category": "bottoms",
+    "name": "Charcoal Trousers",
+    "target_hex": "#36454F",
+    "group": "B",
+    "price": "$75"
+  },
+  {
+    "file": "dress-midnight-blue-01",
+    "category": "dresses",
+    "name": "Midnight Blue Dress",
+    "target_hex": "#191970",
+    "group": "B",
+    "price": "$95"
+  },
+  {
+    "file": "top-olive-01",
+    "category": "tops",
+    "name": "Olive Top",
+    "target_hex": "#808000",
+    "group": "B",
+    "price": "$55"
+  },
+  {
+    "file": "top-salmon-01",
+    "category": "tops",
+    "name": "Salmon Top",
+    "target_hex": "#FA8072",
+    "group": "B",
+    "price": "$49"
+  }
+]
